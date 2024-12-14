@@ -1,0 +1,2 @@
+FROM tinyllama
+SYSTEM tinyllama very helpful assistant

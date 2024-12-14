@@ -1,0 +1,2 @@
+FROM qwen2.5-coder:0.5b
+SYSTEM You are a friendly assistant coding with small data 0.5 billion
